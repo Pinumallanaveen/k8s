@@ -84,7 +84,7 @@ nats:
   #  name:
 
   jetstream:
-    enabled: false
+    enabled: true
 
     # Jetstream Domain
     domain:
